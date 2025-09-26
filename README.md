@@ -4,7 +4,7 @@
 A Python-based voice assistant that listens for a wake word, executes commands, plays music, opens websites, and fetches news headlines.
 (Important note: right now it just performs basic tasks specified by me; you can optimize it as per your requirement)
 
----
+ 
 
 ## Features
 
@@ -18,7 +18,7 @@ Once Jarvis is activated, you can now ask it to perform the tasks.
 - **Continuous command mode:** Stay active until the user says “exit”, “stop”, or similar commands. 
 - **Logout and shutdown commands:** Say “logout”, “sleep”, “bye Jarvis”, etc., to exit completely.
 
----
+ 
 
 ## Requirements
 
@@ -149,8 +149,5 @@ logout / sleep / bye Jarvis
 * Add AI responses using OpenAI GPT API.
 * Enhance music playback with Spotify API integration.
 
-```
-
----
-
+ 
  
