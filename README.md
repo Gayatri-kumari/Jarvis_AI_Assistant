@@ -1,4 +1,4 @@
-````markdown
+ 
 # Jarvis Voice Assistant
 
 A Python-based voice assistant that listens for a wake word, executes commands, plays music, opens websites, and fetches news headlines.
